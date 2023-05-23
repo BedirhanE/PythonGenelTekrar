@@ -27,7 +27,7 @@ sayı_listesi.remove(4) #listeden eleman çıkarma
 print(sayı_listesi)
 
 
-sayı_listesi.reverse() #listeyi ters cevirme
+sayı_listesi.reverse() #listeyi ters cevirme.
 print(sayı_listesi)
 liste=[1,5,87,41,11]
 liste.sort() #listeyi sıralama işlemi (küçükten büyüğe sıralama).
