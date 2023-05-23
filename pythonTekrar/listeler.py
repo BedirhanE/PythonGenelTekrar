@@ -10,14 +10,14 @@ liste=[1,2,3,4,5,6]
 print(type(liste))
 
 haftanın_günleri=["pazartesi","salı","çarşamba","perşembe","cuma","cumaretsi","pazar"]
-print(haftanın_günleri[0]) #ilk eleman
-print(haftanın_günleri[0:7:1])#listedeki tüm elemanları getirme
-print(haftanın_günleri[0:7:2])#başlangıç,bitiş ve artış miktarı
-print(haftanın_günleri[6]) #son eleman
-print(len(haftanın_günleri))#listenin boyutu
-print(haftanın_günleri[7:0:-1])#tersten yazdırma işlemi
-print(haftanın_günleri[-1])#listenin sonundaki eleman
-print(haftanın_günleri[1:4:1])#haftanın 2., 3. ,4. günlerini yazdırma işlemi
+print(haftanın_günleri[0]) #ilk eleman.
+print(haftanın_günleri[0:7:1])#listedeki tüm elemanları getirme.
+print(haftanın_günleri[0:7:2])#başlangıç,bitiş ve artış miktarı.
+print(haftanın_günleri[6]) #son eleman.
+print(len(haftanın_günleri))#listenin boyutu.
+print(haftanın_günleri[7:0:-1])#tersten yazdırma işlemi.
+print(haftanın_günleri[-1])#listenin sonundaki eleman.
+print(haftanın_günleri[1:4:1])#haftanın 2., 3. ,4. günlerini yazdırma işlemi.
 
 #sayı listesi işlemleri (ekleme , çıkarma )
 sayı_listesi=[1,2,3,4,5,6]

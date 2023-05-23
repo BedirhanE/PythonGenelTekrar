@@ -22,4 +22,4 @@ sayı2=4
 
 #1sayı=1
 
-print(sayı1*sayı2)
+print("result:",sayı1*sayı2)

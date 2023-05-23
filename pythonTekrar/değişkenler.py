@@ -1,12 +1,12 @@
 
 #değişkenler
-tamsayı_değişken =10  #tamsayı değişkenim
-ondalıklı_sayı=12.8  #double değişkenim
+tamsayı_değişken =10  #tamsayı değişkenim.
+ondalıklı_sayı=12.8  #double değişkenim.
 
 print(tamsayı_değişken)
 print(ondalıklı_sayı)
 
-#dört işlemler
+#dört işlemler temelden.
 pi_sayısı=3.14
 katsayı=2
 
@@ -37,7 +37,7 @@ print(float_tamsayı_değişken)
 
 #Stringler : karakter dizileri
 
-string="Merhaba Danya"
+string="Merhaba Dünya"
 print(string)
 
 resim_yolu="veri" +"\\" + "image"+ ".png"
