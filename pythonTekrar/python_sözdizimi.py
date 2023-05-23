@@ -3,13 +3,13 @@
 sayı = 6
 print(sayı)
 
-#yorum satırı koymak için
+#yorum satırı koymak için.
 """"-büyük küçük harf 
     -yorum
     -girinti
     -anahtar kelime
  """
-#IndentationError hatası almamak için girintilere dikkat etmek zorundayız
+#IndentationError hatası almamak için girintilere dikkat etmek zorundayız.
 if 5<10:
     print("yes")
 else:
