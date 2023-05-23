@@ -21,7 +21,7 @@ print(haftanın_günleri[1:4:1])#haftanın 2., 3. ,4. günlerini yazdırma işle
 
 #sayı listesi işlemleri (ekleme , çıkarma )
 sayı_listesi=[1,2,3,4,5,6]
-sayı_listesi.append(7) #listeye eleman ekleme
+sayı_listesi.append(7) #listeye eleman ekleme.
 print(sayı_listesi)
 sayı_listesi.remove(4) #listeden eleman çıkarma
 print(sayı_listesi)
