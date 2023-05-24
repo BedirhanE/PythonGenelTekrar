@@ -19,7 +19,7 @@ print(haftanın_günleri[7:0:-1])#tersten yazdırma işlemi.
 print(haftanın_günleri[-1])#listenin sonundaki eleman.
 print(haftanın_günleri[1:4:1])#haftanın 2., 3. ,4. günlerini yazdırma işlemi.
 
-#sayı listesi işlemleri (ekleme , çıkarma )
+#sayı listesi işlemleri (ekleme , çıkarma ).
 sayı_listesi=[1,2,3,4,5,6]
 sayı_listesi.append(7) #listeye eleman ekleme.
 print(sayı_listesi)
