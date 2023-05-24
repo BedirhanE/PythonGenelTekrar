@@ -6,7 +6,7 @@ Tuple'lar, listelere benzer, ancak farkları, tuple'ların değiştirilemez olma
 Yani, bir tuple oluşturduktan sonra, öğeleri değiştiremez veya ekleyemezsiniz.
 """
 
-"""" değiştirilemez ve sıralı bir veri tipidir
+"""" değiştirilemez ve sıralı bir veri tipidir.
 (1,2,3)
 
 """
