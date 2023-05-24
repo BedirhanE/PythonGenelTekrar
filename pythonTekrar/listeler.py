@@ -1,8 +1,8 @@
 #python liste işlemleri.
 """
--bileşik veri türüdür ve çok yönlüdür
--liste , köşeli parantez içine alınmış ve virgülle ayrılmış ögeler içerir
--[1,2,5,"elma","armut",12.8]
+-bileşik veri türüdür ve çok yönlüdür.
+-liste , köşeli parantez içine alınmış ve virgülle ayrılmış ögeler içerir.
+-[1,2,5,"elma","armut",12.8].
 -farklı veri tiplerini içerisinde barındırabilir.
 """
 #görüntü işlemede resimlerimizi bir listede depolayabiliriz, görüntülere nesne tespiti yapabiliriz.
