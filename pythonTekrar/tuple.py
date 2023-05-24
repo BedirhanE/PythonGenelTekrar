@@ -7,7 +7,7 @@ Yani, bir tuple oluşturduktan sonra, öğeleri değiştiremez veya ekleyemezsin
 """
 
 """" değiştirilemez ve sıralı bir veri tipidir.
-(1,2,3) bir Tuple örneğidir.
+(1,2,3) bir Tuple örneğidir..
 
 """
 
