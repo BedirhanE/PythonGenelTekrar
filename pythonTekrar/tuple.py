@@ -11,7 +11,7 @@ Yani, bir tuple oluşturduktan sonra, öğeleri değiştiremez veya ekleyemezsin
 
 """
 
-tuple_veritipi = (1,2,3,3,4,5,6)
+tuple_veritipi = (1,2,3,3,4,5,6,7)
 #ilk elemanı bulma.
 print(tuple_veritipi[0])
 
