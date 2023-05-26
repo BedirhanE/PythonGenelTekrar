@@ -1,5 +1,5 @@
 #  Tuple konu tekrarı
-
+#
 """ Python tuple (demet), değiştirilemez ve sıralı bir veri koleksiyonudur.
 Tuple, parantezler içinde virgülle ayrılmış öğelerden oluşur.
 Tuple'lar, listelere benzer, ancak farkları, tuple'ların değiştirilemez olmasıdır.
